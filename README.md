@@ -1,1 +1,10 @@
-# index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Cloud Lab</title>
+</head>
+<body>
+    <h1>Hello from the cloud</h1>
+    <p>Built by Nuur Ibraahim for Cloud Computing Lab 1.</p>
+</body>
+</html>
